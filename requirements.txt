@@ -1,0 +1,5 @@
+requests         # to make API calls
+flask            # if we want a simple web UI later
+ollama           # to run local AI models (if using Ollama)
+openai           # if we use OpenAI’s API (optional)
+python-dotenv    # to manage API keys securely

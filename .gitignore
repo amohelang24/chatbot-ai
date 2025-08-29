@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Logs & chat history
+*.log
+chat_history.txt
+
+# IDE & editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
